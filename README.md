@@ -21,11 +21,13 @@ Setup your development environment with [these](https://reactnative.dev/docs/env
 
 Clone this repository and change directory to the cloned respository
 ```bash
-git clone ...
+git clone https://github.com/Larkuo/todoApp
 cd todoApp
 ```
-
-To try this project on your mobile device, download the appropriate APK (i.e. [iOS]() or [Android]()) onto your device and run it to install it.
+To run the project in expo cli, cd into the project folder and
+```bash
+npm start
+```
 
 ## How it Works
 
@@ -35,12 +37,10 @@ To try this project on your mobile device, download the appropriate APK (i.e. [i
 * Tap/Click the Add New Task button to add a new task
 * Tap/Click the Add New Category but to add a new task category
 
-
-![GIF of how the app works]()
+[GIF of how the app works](https://github.com/Larkuo/todoApp/blob/main/assets/demo_MP4_AdobeCreativeCloudExpress.gif)
 
 ***In the app, there are tasks loaded before any new tasks/categories are added, these are from the Tasksjson file***
 
 
-
 ## Project Status
-This project mostly complete will be put on hold till I finish my semester at the end of May 2022. After which I'll attempt to improve the UI and UX plus add logins, etc.
+This project is mostly complete will be put on hold till I finish my semester at the end of May 2022. After which I'll attempt to improve the UI and UX plus add logins, etc.
