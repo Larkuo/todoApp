@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "title": "Learn React hooks",
+        "description": "Learn all the new awesome react hooks...",
+        "status": 0,
+        "taskCategoryId": 4,
+        "comments": [
+        {
+        "message": "Hmm, useState is awesome",
+        "createdOn": "2021-09-25T10:30:37.939Z",
+        "updatedOn": "2021-09-25T10:30:37.939Z"
+        },
+        {
+        "message": "Hmm, memo is awesome",
+        "createdOn": "2021-09-26T10:30:37.939Z",
+        "updatedOn": "2021-09-26T10:30:37.939Z"
+        }
+        ],
+        "dateStarted": "2021-09-24T10:30:37.939Z",
+        "dateEnded": "2021-09-28T10:30:37.939Z"
+    },
+    {
+        "id": 2,
+        "title": "Get new glasses",
+        "description": "Go to the hospital and get my eyes looked...",
+        "status": 0,
+        "taskCategoryId": 5,
+        "comments": [
+        {
+        "message": "Hmm, useState is awesome",
+        "createdOn": "2021-09-25T10:30:37.939Z",
+        "updatedOn": "2021-09-25T10:30:37.939Z"
+        },
+        {
+        "message": "Hmm, memo is awesome",
+        "createdOn": "2021-09-26T10:30:37.939Z",
+        "updatedOn": "2021-09-26T10:30:37.939Z"
+        }
+        ],
+        "dateStarted": "2021-09-24T10:30:37.939Z",
+        "dateEnded": "2021-09-28T10:30:37.939Z"
+    },
+    {
+        "id": 3,
+        "title": "Clean my room",
+        "description": "Clean the floor, windows, fan...",
+        "status": 0,
+        "taskCategoryId": 1,
+        "comments": [
+        {
+        "message": "Hmm, useState is awesome",
+        "createdOn": "2021-09-25T10:30:37.939Z",
+        "updatedOn": "2021-09-25T10:30:37.939Z"
+        },
+        {
+        "message": "Hmm, memo is awesome",
+        "createdOn": "2021-09-26T10:30:37.939Z",
+        "updatedOn": "2021-09-26T10:30:37.939Z"
+        }
+        ],
+        "dateStarted": "2021-09-24T10:30:37.939Z",
+        "dateEnded": "2021-09-28T10:30:37.939Z"
+    },
+    {
+        "id": 4,
+        "title": "Setup RaspberryPi",
+        "description": "Setup raspberrypi ssh, display drivers, etc.",
+        "status": 0,
+        "taskCategoryId": 2,
+        "comments": [
+        {
+        "message": "Hmm, useState is awesome",
+        "createdOn": "2021-09-25T10:30:37.939Z",
+        "updatedOn": "2021-09-25T10:30:37.939Z"
+        },
+        {
+        "message": "Hmm, memo is awesome",
+        "createdOn": "2021-09-26T10:30:37.939Z",
+        "updatedOn": "2021-09-26T10:30:37.939Z"
+        }
+        ],
+        "dateStarted": "2021-09-24T10:30:37.939Z",
+        "dateEnded": "2021-09-28T10:30:37.939Z"
+    }
+]

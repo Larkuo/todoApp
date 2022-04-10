@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Personal",
+        "createdOn": "2021-09-23T10:30:37.939Z",
+        "updatedOn": "2021-09-23T10:30:37.939Z"
+    },
+    {
+        "id": 2,
+        "name": "School",
+        "createdOn": "2021-09-23T10:30:37.939Z",
+        "updatedOn": "2021-09-23T10:30:37.939Z"
+    },
+    {
+        "id": 3,
+        "name": "Money",
+        "createdOn": "2021-09-23T10:30:37.939Z",
+        "updatedOn": "2021-09-23T10:30:37.939Z"
+    },
+    {
+        "id": 4,
+        "name": "Work",
+        "createdOn": "2021-09-23T10:30:37.939Z",
+        "updatedOn": "2021-09-23T10:30:37.939Z"
+    },
+    {
+        "id": 5,
+        "name": "Health",
+        "createdOn": "2021-09-23T10:30:37.939Z",
+        "updatedOn": "2021-09-23T10:30:37.939Z"
+    }
+]
